@@ -1,0 +1,15 @@
+/Users/Anatoliy/Work Dropbox/Anatoliy Yermakov/Programming/C#/Projects/snake/snake/bin/Debug/net7.0/snake
+/Users/Anatoliy/Work Dropbox/Anatoliy Yermakov/Programming/C#/Projects/snake/snake/bin/Debug/net7.0/snake.deps.json
+/Users/Anatoliy/Work Dropbox/Anatoliy Yermakov/Programming/C#/Projects/snake/snake/bin/Debug/net7.0/snake.runtimeconfig.json
+/Users/Anatoliy/Work Dropbox/Anatoliy Yermakov/Programming/C#/Projects/snake/snake/bin/Debug/net7.0/snake.dll
+/Users/Anatoliy/Work Dropbox/Anatoliy Yermakov/Programming/C#/Projects/snake/snake/bin/Debug/net7.0/snake.pdb
+/Users/Anatoliy/Work Dropbox/Anatoliy Yermakov/Programming/C#/Projects/snake/snake/obj/Debug/net7.0/snake.csproj.AssemblyReference.cache
+/Users/Anatoliy/Work Dropbox/Anatoliy Yermakov/Programming/C#/Projects/snake/snake/obj/Debug/net7.0/snake.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Anatoliy/Work Dropbox/Anatoliy Yermakov/Programming/C#/Projects/snake/snake/obj/Debug/net7.0/snake.AssemblyInfoInputs.cache
+/Users/Anatoliy/Work Dropbox/Anatoliy Yermakov/Programming/C#/Projects/snake/snake/obj/Debug/net7.0/snake.AssemblyInfo.cs
+/Users/Anatoliy/Work Dropbox/Anatoliy Yermakov/Programming/C#/Projects/snake/snake/obj/Debug/net7.0/snake.csproj.CoreCompileInputs.cache
+/Users/Anatoliy/Work Dropbox/Anatoliy Yermakov/Programming/C#/Projects/snake/snake/obj/Debug/net7.0/snake.dll
+/Users/Anatoliy/Work Dropbox/Anatoliy Yermakov/Programming/C#/Projects/snake/snake/obj/Debug/net7.0/refint/snake.dll
+/Users/Anatoliy/Work Dropbox/Anatoliy Yermakov/Programming/C#/Projects/snake/snake/obj/Debug/net7.0/snake.pdb
+/Users/Anatoliy/Work Dropbox/Anatoliy Yermakov/Programming/C#/Projects/snake/snake/obj/Debug/net7.0/snake.genruntimeconfig.cache
+/Users/Anatoliy/Work Dropbox/Anatoliy Yermakov/Programming/C#/Projects/snake/snake/obj/Debug/net7.0/ref/snake.dll
