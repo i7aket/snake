@@ -1,4 +1,4 @@
-
+//version 0.1
 namespace snake;
 
 public class Block
